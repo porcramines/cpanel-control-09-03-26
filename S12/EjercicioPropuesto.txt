@@ -1,0 +1,1 @@
+Desarrollar el diseño de la base de datos "Ventas" que se muestra en la pagina 1 del documento pdf
